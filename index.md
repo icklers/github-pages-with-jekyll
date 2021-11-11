@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "GH labs course blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My new blog is about something awesome!
